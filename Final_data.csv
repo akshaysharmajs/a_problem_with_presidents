@@ -1,0 +1,46 @@
+,PRESIDENT,BIRTH DATE,BIRTH PLACE,DEATH DATE,LOCATION OF DEATH,year_of_birth,lived_days,lived_years,lived_months
+0,George Washington,"Feb 22, 1732","Westmoreland Co., Va.","Dec 14, 1799","Mount Vernon, Va.",1732,24767,67,825
+1,John Adams,"Oct 30, 1735","Quincy, Mass.","July 4, 1826","Quincy, Mass.",1735,33119,90,1103
+2,Thomas Jefferson,"Apr 13, 1743","Albemarle Co., Va.","July 4, 1826","Albemarle Co., Va.",1743,30397,83,1013
+3,James Madison,"Mar 16, 1751","Port Conway, Va.","June 28, 1836","Orange Co., Va.",1751,31150,85,1038
+4,James Monroe,"Apr 28, 1758","Westmoreland Co., Va.","July 4, 1831","New York, New York",1758,26729,73,890
+5,John Quincy Adams,"July 11, 1767","Quincy, Mass.","Feb 23, 1848","Washington, D.C.",1767,29446,80,981
+6,Andrew Jackson,"Mar 15, 1767","Waxhaws, No/So Carolina","June 8, 1845","Nashville, Tennessee",1767,28574,78,952
+7,Martin Van Buren,"Dec 5, 1782","Kinderhook, New York","July 24, 1862","Kinderhook, New York",1782,29085,79,969
+8,William Henry Harrison,"Feb 9, 1773","Charles City Co., Va.","Apr 4, 1841","Washington, D.C.",1773,24890,68,829
+9,John Tyler,"Mar 29, 1790","Charles City Co., Va.","Jan 18, 1862","Richmond, Va.",1790,26227,71,874
+10,James K. Polk,"Nov 2, 1795","Mecklenburg Co., N.C.","June 15, 1849","Nashville, Tennessee",1795,19583,53,652
+11,Zachary Taylor,"Nov 24, 1784","Orange County, Va.","July 9, 1850","Washington, D.C",1784,23967,65,798
+12,Millard Fillmore,"Jan 7, 1800","Cayuga Co., New York","Mar 8, 1874","Buffalo, New York",1800,27088,74,902
+13,Franklin Pierce,"Nov 23, 1804","Hillsborough, N.H.","Oct 8, 1869","Concord, New Hamp.",1804,23695,64,789
+14,James Buchanan,"Apr 23, 1791","Cove Gap, Pa.","June 1, 1868","Lancaster, Pa.",1791,28163,77,938
+15,Abraham Lincoln,"Feb 12, 1809","LaRue Co., Kentucky","Apr 15, 1865","Washington, D.C.",1809,20516,56,683
+16,Andrew Johnson,"Dec 29, 1808","Raleigh, North Carolina","July 31, 1875","Elizabethton, Tenn.",1808,24320,66,810
+17,Ulysses S. Grant,"Apr 27, 1822","Point Pleasant, Ohio","July 23, 1885","Wilton, New York",1822,23098,63,769
+18,Rutherford B. Hayes,"Oct 4, 1822","Delaware, Ohio","Jan 17, 1893","Fremont, Ohio",1822,25673,70,855
+19,James A. Garfield,"Nov 19, 1831","Cuyahoga Co., Ohio","Sep 19, 1881","Elberon, New Jersey",1831,18202,49,606
+20,Chester Arthur,"Oct 5, 1829","Fairfield, Vermont","Nov 18, 1886","New York, New York",1829,20863,57,695
+21,Grover Cleveland,"Mar 18, 1837","Caldwell, New Jersey","June 24, 1908","Princeton, New Jersey",1837,26030,71,867
+22,Benjamin Harrison,"Aug 20, 1833","North Bend, Ohio","Mar 13, 1901","Indianapolis, Indiana",1833,24676,67,822
+23,William McKinley,"Jan 29, 1843","Niles, Ohio","Sep 14, 1901","Buffalo, New York",1843,21412,58,713
+24,Theodore Roosevelt,"Oct 27, 1858","New York, New York","Jan 6, 1919","Oyster Bay, New York",1858,21985,60,732
+25,William Howard Taft,"Sep 15, 1857","Cincinnati, Ohio","Mar 8, 1930","Washington, D.C.",1857,26471,72,882
+26,Woodrow Wilson,"Dec 28, 1856","Staunton, Virginia","Feb 3, 1924","Washington, D.C.",1856,24507,67,816
+27,Warren G. Harding,"Nov 2, 1865","Morrow County, Ohio","Aug 2, 1923","San Francisco, Cal.",1865,21091,57,703
+28,Calvin Coolidge,"July 4, 1872","Plymouth, Vermont","Jan 5, 1933","Northampton, Mass.",1872,22099,60,736
+29,Herbert Hoover,"Aug 10, 1874","West Branch, Iowa","Oct 20, 1964","New York, New York",1874,32943,90,1098
+30,Franklin Roosevelt,"Jan 30, 1882","Hyde Park, New York","Apr 12, 1945","Warm Springs, Ga.",1882,23082,63,769
+31,Harry S. Truman,"May 8, 1884","Lamar, Missouri","Dec 26, 1972","Kansas City, Missouri",1884,32373,88,1079
+32,Dwight Eisenhower,"Oct 14, 1890","Denison, Texas","Mar 28, 1969","Washington, D.C.",1890,28654,78,955
+33,John F. Kennedy,"May 29, 1917","Brookline, Mass.","Nov 22, 1963","Dallas, Texas",1917,16978,46,565
+34,Lyndon B. Johnson,"Aug 27, 1908","Gillespie Co., Texas","Jan 22, 1973","Gillespie Co., Texas",1908,23524,64,784
+35,Richard Nixon,"Jan 9, 1913","Yorba Linda, Cal.","Apr 22, 1994","New York, New York",1913,29688,81,989
+36,Gerald Ford,"July 14, 1913","Omaha, Nebraska","Dec 26, 2006","Rancho Mirage, Cal.",1913,34133,93,1137
+37,Jimmy Carter,"Oct 1, 1924","Plains, Georgia","Jul 25, 2023",Alive,1924,36091,98,1203
+38,Ronald Reagan,"Feb 6, 1911","Tampico, Illinois","June 5, 2004","Los Angeles, Cal.",1911,34088,93,1136
+39,George Bush,"June 12, 1924","Milton, Mass.","Nov 30, 2018","Houston, Texas",1924,34504,94,1150
+40,Bill Clinton,"Aug 19, 1946","Hope, Arkansas","Jul 25, 2023",Alive,1946,28099,76,936
+41,George W. Bush,"July 6, 1946","New Haven, Conn.","Jul 25, 2023",Alive,1946,28143,77,938
+42,Barack Obama,"Aug 4, 1961","Honolulu, Hawaii","Jul 25, 2023",Alive,1961,22635,62,754
+43,Donald Trump,"June 14, 1946","New York, New York","Jul 25, 2023",Alive,1946,28165,77,938
+44,Joe Biden,"Nov 20, 1942","Scranton, Pa.","Jul 25, 2023",Alive,1942,29467,80,982
